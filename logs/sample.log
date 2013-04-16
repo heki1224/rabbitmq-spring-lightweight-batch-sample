@@ -1,0 +1,2 @@
+2013-04-16 11:32:30 INFO Batch - executor start. (Batch.java:34)
+2013-04-16 11:32:41 INFO SampleExecutor - name=test user,age=30,birthday=1366079560945,available=true (SampleExecutor.java:36)
