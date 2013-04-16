@@ -8,9 +8,9 @@ Import Eclipse < 3.7.2
   
 解説(description)
 ------
-RabbitMQのレシーバをバッチとして組み込む際の実装サンプルです。 
-Runtime.getRuntime().addShutdownHook(new Thread() {public void run() {...}})を使って 
-プロセス終了処理を実行しています。 
+RabbitMQのレシーバをバッチとして組み込む際の実装サンプルです。  
+Runtime.getRuntime().addShutdownHook(new Thread() {public void run() {...}})を使って  
+プロセス終了処理を実行しています。  
   
 動作環境(environment)
 ------------
