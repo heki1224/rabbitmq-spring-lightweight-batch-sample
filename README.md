@@ -30,3 +30,7 @@ logback 1.0.13
 参考(Link)
 ----------------
   
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/heki1224/rabbitmq-spring-lightweight-batch-sample/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
